@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Santos. 
 
-- 💻 Analista de Sistemas ⏳ 3/5
+- 💻 Analista de Sistemas ⏳ 4/5
 - 📚 Estudo Python 
 - 🤓 Futuro Full Stack Developer
 <div style="display: inline_block"><br>
